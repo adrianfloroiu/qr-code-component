@@ -20,8 +20,8 @@ My first challenge attempted on Frontend Mentor. It's a perfect challenge for a 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-erMa1_quCF)
+- Live Site URL: [Add live site URL here](https://adrianfloroiu.github.io/qr-code-component/)
 
 ## Built with
 
